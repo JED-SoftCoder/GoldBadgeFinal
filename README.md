@@ -1,0 +1,5 @@
+# GoldBadgeFinal
+I completed the first 3 challenges and had some extra time to complete the bonus challenge. For the first challenge, I only utilized the Create, Read, and Delete parts of the CRUD method. These methods would let a user create a menu item, view all menu items, and delete menu items. 
+The second challenge was composed of creating an insurance claims repository. This challenge as well was composed of Create, Read, and Delete methods. The user could create a claim, read all claims, and delete a claim. There was also use of the queue class to filter through claims.
+The third challenege focused on creating a Badge and adding that badge to a dictionary class. This challenge focused mostly on the Create, Read, and Update methods. 
+The fourth challenge I completed was the bonus challenge. This challenge called upon the full use of the Create, Read, Update, and Delete method to manage smart car data for an insurance office to create a premium plan with. After utilizing the full CRUD method, I also created a method to add the data and use the average of in order to suggest different pricing based on driver habits. 
